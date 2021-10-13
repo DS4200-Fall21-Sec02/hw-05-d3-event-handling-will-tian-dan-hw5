@@ -106,6 +106,8 @@ However, **you must cite and reference the resources or sample code you use and 
 **_This includes anything from [bl.ocks.org](https://bl.ocks.org/), [Observable](https://observablehq.com/@d3/gallery), or [Stack Overflow](https://stackoverflow.com/)!_**
 Failure to properly cite and attribute code is a breach of academic integrity.
 
+1. We used sample code from [this d3.js documentation page](https://github.com/d3/d3-drag/blob/v3.0.0/README.md#drag) as a starting point for our circle and square's drag functionality.
+
 Additionally, you should under no circumstances copy a classmate's code. You are welcome to ask fellow classmates and students for help and discuss the assignment, but **your submission should be your own work**.
 See Canvas for more detail on our academic integrity policy and expectations.
 
